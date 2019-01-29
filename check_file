@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Select a file within the Documents folder"
+read file
+echo $(date) >> check_file_log.txt
+ls /home/pascaie/Documents/$file >> check_file_log.txt 2>&1
+echo "Output of the file research: $? (0: the file exists; 2: the file does not exist)"

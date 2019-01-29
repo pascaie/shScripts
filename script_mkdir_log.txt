@@ -1,0 +1,24 @@
+LOG FILE
+sab 29 set 2018, 12.16.13, CEST
+mkdir: cannot create directory ‘/home/pascaie/Documents/’: File exists
+/home/pascaie/Documents
+sab 29 set 2018, 12.17.22, CEST
+/home/pascaie/Documents/nuovo_direttorio
+sab 29 set 2018, 12.28.29, CEST
+/home/pascaie/Documents/newdir
+total 0
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:28 file1
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:28 file2
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:28 file3
+This is the first file
+This is the second file
+This is the third file
+sab 29 set 2018, 12.34.27, CEST
+/home/pascaie/Documents/newdirectory
+total 0
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:34 file1
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:34 file2
+-rw-r--r-- 1 pascaie pascaie 0 set 29 12:34 file3
+This is the first file, created on date: sab 29 set 2018, 12.34.36, CEST
+This is the second file, created on date: sab 29 set 2018, 12.34.36, CEST
+This is the third file, created on date: sab 29 set 2018, 12.34.36, CEST

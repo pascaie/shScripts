@@ -1,0 +1,11 @@
+ls: cannot access '/home/pascaie/Documents/eeerrr': No such file or directory
+ls: cannot access '/home/pascaie/Documents/dwqdwq': No such file or directory
+/home/pascaie/Documents/history
+sab 29 set 2018, 10.52.04, CEST
+ls: cannot access '/home/pascaie/Documents/efewf': No such file or directory
+sab 29 set 2018, 10.52.47, CEST
+/home/pascaie/Documents/history
+sab 29 set 2018, 11.53.12, CEST
+ls: cannot access '/home/pascaie/Documents/dwedd': No such file or directory
+sab 29 set 2018, 11.53.24, CEST
+ls: cannot access '/home/pascaie/Documents/fie': No such file or directory
