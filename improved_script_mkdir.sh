@@ -17,6 +17,7 @@ do
 done
 
 ls -l file?
+# here, '?' is a wildcard used to apply the 'ls' command to all files in the present directory: file1, file2, file3 and file4
 
 for names in file?
 do

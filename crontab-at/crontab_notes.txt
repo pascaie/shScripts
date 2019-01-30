@@ -1,0 +1,10 @@
+CRONTAB NOTES
+
+1) to show the crontab content, enter:
+	crontab -l
+2) to edit the crontab content, enter:
+	crontab -e
+
+Example of crontab line script:
+	55 * * * * ~/Documents/myjob.sh | mail -s "Crontab" enrico.pascai@gmail.com
+

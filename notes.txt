@@ -1,0 +1,16 @@
+Notes about executable (.sh) Linux files
+
+1) create a new .sh file and add at the top the shebang line "#!/bin/bash"
+2) after saving the file as <filename>.sh, enter the following command from the command line:
+	chmod +x <filename>.sh
+	NOTE: this will make the script executable
+3) to actually execute the script, enter:
+	./<filename>.sh
+
+
+READ A FILE
+1) get the content of a file as a string variable through the command:
+	content=$(<<filename>)
+2) display the file content by using:
+	echo $content
+	NOTE: you can refer to the file content using $<variable_name>
